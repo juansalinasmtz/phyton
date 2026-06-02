@@ -1,0 +1,4 @@
+
+__pycache__/      # carpeta completa
+*.pyc             # todos los archivos con esa extensión
+*.log             # todos los logs
